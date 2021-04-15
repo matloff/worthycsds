@@ -3,7 +3,7 @@
 
 ## Prof. Norm Matloff, University of California, Davis CS Dept.
 
-![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.jpg)
+![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.png)
 
 ## Purpose of this document
 
@@ -12,7 +12,7 @@ time to be in CS -- but how to make the most of this opportunity?  As
 noted above in the title of this document, much of what I say here also
 applies to Stat majors.
 
-We'll cover a variety topics, so let's get started!
+We'll cover a variety topics, so let's get started!  
 
 ## My background
 
