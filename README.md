@@ -141,6 +141,24 @@ function, if a group of, say, 3-4 lines perform some mini-task, precede
 them with a comment, saying something like "In the next 3 lines, we
 determine which array elements caused the total to exceed its limit."
 
+Ever had a problem with computer network connections?  You should be
+able to apply your book learning into practice, e.g. to check whether it
+is a DNS problem.
+
+## Classes to take whether required or not
+
+* Computer networks: the basis for most computer applications today
+
+* Database:  The "information" in "Information Technology"
+
+* Computer security:  If your school doesn't offer one, suggest that
+  they do
+
+* Economics:  Affects everything in your life; take a whole year of it
+  if you can
+
+* Advanced statistics:  See below
+
 ## Choosing your professors
 
 The temptation, of course, is to take the path of least resistance,
