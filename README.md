@@ -3,7 +3,7 @@
 
 ## Prof. Norm Matloff, University of California, Davis CS Dept.
 
-![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.png)
+![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.jpg)
 
 ## Purpose of this document
 
