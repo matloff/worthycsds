@@ -28,8 +28,7 @@ university-wide Distinguished Teaching Award, Outstanding Adviser Award,
 and Distinguished Public Service Award.  My book, *Statistical
 Regression and Classification: from Linear Models to Machine Learning*
 was the 2017 recipient of the Ziegal Award, given by the statistics 
-journal *Technometrics*.  All of these, together with my close ties to
-industry, inform my views presented below.
+journal *Technometrics*.  
 
 My time in industry was long, long ago, but I have always kept close
 ties to the real world.  I frequently interact with people in Silicon
@@ -292,12 +291,21 @@ transformative impact on the student.
 On the other hand, if the student is just assigned to do straightforword
 coding, say, then the value of research is essentially nil.
 
-## Interviewing for jobs
+## Seeking and interviewing for jobs
 
 Job hunting (including for internships) can be a full-time job in its
 own right.  Your campus employment center will help (including via the
 job fairs they sponsor on campus), and you can scan the Web.  Use your
 social network too!
+
+You should maintain a GitHub repo containing code for your more
+important projects.  It's best that they be independent projects, i.e.
+not for a class, but the latter type is useful too.  This is your
+portfolio, just as an artist has a portfolio of his/her artwork.  It's
+possible that you may be asked about these projects in interviews.  Be
+prepared to answer design-oriented questions.  Why did you set up your
+data structures in a certain way?  What if the goal of the code had been
+slightly different?  What would you have to change?
 
 When you have an interview (first on the phone or Zoom, later on-site),
 prepare by researchng the nature of the employer.  Practice mock
