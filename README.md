@@ -322,3 +322,37 @@ interviewers want to see how you think.
 And no matter how introverted you are, don't just sit there "like a bump
 on a log"!  Speak up!  Venture opinions!  Ask questions!
 
+## Graduate school
+
+"Should I go to grad school?"  This is one of the most common questions
+I get from students.
+
+To answer, I tell them an old joke:  A man is walking on a dock and
+passes a huge yacht.  The asks the onwer how much the yacht costs.  The
+owner answers, "If you have to ask, then you can't afford it."  The
+point is that, for the most part, you will only gain from grad school if
+you really want to do it; otherwise, you "can't afford it," in terms of
+time and money spent etc.  This is true both for a Master's degree and a
+PhD.
+
+Master's degree quality varies tremendously from school to school.  If
+you get a CS Bachelor's degree from a research-oriented
+university, and later get a Master's from a non-research school, you may
+find that the latter's Master's curriculum is similar to, maybe even
+inferior to, your undergrad material.
+
+On the other hand, one should not necessarily talk about whether the CS
+graduate program at University X is "good."  It depends on the research
+area.  X may be very good in, say, computer security but weak in machine
+learning.  So take your field(s) of interest into account.
+
+In applying to grad school, note that letters of recommendation tend to
+be crucial, even more than grades and test scores.  See
+[these sample letters]](http://heather.cs.ucdavis.edu/~matloff/LettersOfRec.html)
+
+Once you get to grad school, you'll notice immediately that the climate
+has changed from the undergrad world.  Your classmates will now consist
+of people who have a genuine intellectual curiosity about CS, which may
+not have been the case for many of your undergrad friends.  In class,
+you are now expected to be much more active, questioning and
+independent-thinking.
