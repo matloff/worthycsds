@@ -21,10 +21,15 @@ we must begin with my explaining the background affecting my views.
 
 My PhD is in pure math, and I am a founder of both the CS and Stat
 Departments at my university.  My current research areas are machine
-learning, parallel computation, and statistics.  I've won some teaching
-awards, and my book, *Statistical Regression and Classification: from
-Linear Models to Machine Learning* was the 2017 recipient of the Ziegal
-Award.
+learning, parallel computation, and statistics.  
+
+I've been fortunate to be recognized for my work.  I've won the
+university-wide Distinguished Teaching Award, Outstanding Adviser Award,
+and Distinguished Public Service Award.  My book, *Statistical
+Regression and Classification: from Linear Models to Machine Learning*
+was the 2017 recipient of the Ziegal Award, given by the statistics 
+journal *Technometrics*.  All of these, together with my close ties to
+industry, inform my views presented below.
 
 My time in industry was long, long ago, but I have always kept close
 ties to the real world.  I frequently interact with people in Silicon
@@ -39,7 +44,8 @@ have different opinions.
 
 ## What do CS graduates do?
 
-* Yes, many become software engineers.  But there is lots more.
+* Yes, many become software engineers.  But there is lots more,
+  including:
 
 * Data scientists:  Analyzing, graphing and predicting data.
 
@@ -112,7 +118,9 @@ is the ONLY way to learn Unix; coursework is not enough.
 
 Write little **bash** shell scripts to help you with your daily work,
 automating tasks.  Write larger programs for your own personal use.
-Make sure it's something you WILL use, for motivation.
+Make sure it's something you WILL use, for motivation.  You will grow
+from these projects as much as you will from any class, probably
+more.
 
 ## Make real USE of what you learn
 
@@ -147,7 +155,7 @@ is a DNS problem.
 
 ## Classes to take whether required or not
 
-* Computer networks: the basis for most computer applications today
+* Computer networks: The basis for most computer applications today
 
 * Database:  The "information" in "Information Technology"
 
@@ -171,7 +179,7 @@ grow intellectually*, the type who:
 * Do prominent research in their field, *and* are excited about sharing
   their insights with their students.
 
-Here are the earmarks of professors who may be popular *are not helping
+Here are the earmarks of professors who *may not be helping
 you grow*:  
 
 *  In a programming class, they emphasize syntax in lectures and exams,
@@ -187,12 +195,12 @@ you grow*:
 
 Read the textbook!  Read it for deep understanding.  If you see a page
 consisting only of prose, with no code, no equations, and no figures, do
-not conclude there is no content!  On the contrary, that page may be one
-of the most important ones in the book.  You actually should spend extra
+not conclude there is no content!  On the contrary, *that page may be one
+of the most important ones in the book*.  You actually should spend extra
 time on such pages.
 
 Pause often for thought.  Your reading will likely cause you to have
-lots of questions.  Indeed, if you no questions, you probably have not
+lots of questions.  Indeed, if you have no questions, you probably have not
 been reading critically.  Think hard in trying to answer the questions
 yourself, and ask your professor or TAs about the rest.
 
