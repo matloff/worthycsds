@@ -174,22 +174,13 @@ selecting professors on the basis of their reputation for easiness.
 Fight this temptation, and *choose instructors who will really help you
 grow intellectually*, the type who:
 
-* Give challenging, thought provoking assignnments and exams.  
+* Give challenging, thought provoking assignnments and exams.  In a
+  programming course, this means having you write code on exams
+(even if brief), rather than focusing on syntax and the like.
 
 * Do prominent research in their field, *and* are excited about sharing
-  their insights with their students.
-
-Here are the earmarks of professors who *may not be helping
-you grow*:  
-
-*  In a programming class, they emphasize syntax in lectures and exams,
-   and give you outlines showing how to do the coding assignments.
-
-*  In a statistics course, they simply cover the mechanics of the
-   methods, not explaining the real-world issues (see below). 
-
-* In any course, they give you a "practice test" that turns out to be
-  close to the real thing. 
+  their insights with their students.  This is the real advantage of
+attending a research university, if you are at such an institution.
 
 ## Textbooks
 
