@@ -348,7 +348,7 @@ learning.  So take your field(s) of interest into account.
 
 In applying to grad school, note that letters of recommendation tend to
 be crucial, even more than grades and test scores.  See
-[these sample letters]](http://heather.cs.ucdavis.edu/~matloff/LettersOfRec.html)
+[these sample letters](http://heather.cs.ucdavis.edu/~matloff/LettersOfRec.html)
 
 Once you get to grad school, you'll notice immediately that the climate
 has changed from the undergrad world.  Your classmates will now consist
