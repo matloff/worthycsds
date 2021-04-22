@@ -123,7 +123,7 @@ more.
 
 ## "No pain, no gain"
 
-What does this old saying mean, in the CS context?  It does NOT "Work
+What does this old saying mean, in the CS context?  It does NOT mean "Work
 yourself to death."  It does NOT mean "Take 5 courses per
 semester/quarter," and so on.
 
@@ -357,10 +357,11 @@ on a log"!  Speak up!  Venture opinions!  Ask questions!
 I get from students.
 
 To answer, I tell them an old joke:  A man is walking on a dock and
-passes a huge yacht.  The asks the owner how much the yacht costs.  The
+passes a huge yacht.  He asks the owner how much the yacht costs.  The
 owner answers, "If you have to ask, then you can't afford it."  The
 point is that, for the most part, you will only gain from grad school if
-you really want to do it; otherwise, you "can't afford it," in terms of
+you really want to do it; if you have to ask whether to pursue
+graduate study, then you "can't afford it," in terms of
 time and money spent etc.  This is true both for a Master's degree and a
 PhD.
 
