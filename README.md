@@ -121,6 +121,35 @@ Make sure it's something you WILL use, for motivation.  You will grow
 from these projects as much as you will from any class, probably
 more.
 
+## "No pain, no gain"
+
+What does this old saying mean, in the CS context?  It does NOT "Work
+yourself to death."  It does NOT mean "Take 5 courses per
+semester/quarter," and so on.
+
+What it does mean is to give your work long, hard thought.  Can't see
+how to even get started on your programming assignment?  Don't
+immediately seek your TA!  Think more and more on it.  Let it percolate
+in your mind.  Go for a long walk to mull it over.  **This is where you
+become a good programmer.**  If you don't go through this, you likely
+never do well in a coding interview.
+
+It also follows that if the problem statement for your assignment gives
+you an outline of the code structure, the instructor is not doing you a
+favor.  Try to take courses from professors who challenge you.
+
+The same point holds for mathematical courses, whether in a CS, Math or
+Stat Department.
+
+## "The Internet is your friend"
+
+On the other hand, do make use of Google, the Wikipedia and so on.  Say
+you get an error message from the compiler or OS, whose phrasing is
+unclear.  Don't hesitate to use Web resources.  Note that in some cases,
+no one Web site will solve your problem, but you may be able to piece
+together information from several sites to gain the insight you need to
+understand and fix the error.
+
 ## Make real USE of what you learn
 
 In writing your own code, make sure to use a debugging tool.  You may
