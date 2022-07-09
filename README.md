@@ -1,5 +1,7 @@
 
-# How to Make the Most of Your Computer Science (and Even Statistics) Major
+# How to Make the Most of Your Computer Science/Data Science/Statistics Major
+
+## What no one else will tell you. :-)
 
 ## Prof. Norm Matloff, University of California, Davis CS Dept.
 
@@ -7,10 +9,9 @@
 
 ## Purpose of this document
 
-Computer Science is a fascinating, ever-growing field.  It's an exciting
-time to be in CS -- but how to make the most of this opportunity?  As
-noted above in the title of this document, much of what I say here also
-applies to Stat majors.
+Computer Science, Data Science and Statistics (CSDSStat) are
+fascinating, ever-growing fields.  It's an exciting
+time to be in tech -- but how to make the most of this opportunity?  
 
 We'll cover a variety topics, so let's get started!  
 
@@ -30,6 +31,15 @@ Regression and Classification: from Linear Models to Machine Learning*
 was the 2017 recipient of the Ziegal Award, given by the statistics 
 journal *Technometrics*.  
 
+I am quite active in the R programming language.  I've published a
+number of books that use R, and have written various packages on CRAN
+and GitHub.  I've served as Editor-in-Chief of the *R Journal* and
+the *Journal of Statistical Software*.  I've written a rather popular 
+[R tutorial](http://github.com/matloff/fasteR), and a
+[criticism of the R tidyverse](http://github.com/matloff/TidyverseSkeptic)
+that many have found cogent.
+
+
 My time in industry was long, long ago, but I have always kept close
 ties to the real world.  I frequently interact with people in Silicon
 Valley, and keep close tabs on the job market. Syndicated columnist
@@ -41,49 +51,70 @@ Of course, the material here represents my own views only, and does not
 imply endorsement by my university or department.  And again, others may
 have different opinions.
 
-## What do CS graduates do?
+## What do CSDSStat graduates do?
 
-* Yes, many become software engineers.  But there is lots more,
-  including:
+* Many in CS--and in fact many from DS, Stat and virtually any tech
+  field--become software engineers.  Note that most software engineers
+are young, say below age 35.  There is considerable age discrimination
+in all tech fields, but much more so in this particular one.
 
-* Data scientists:  Analyzing, graphing and predicting data.
+* Data scientists:  Analyzing, graphing and predicting data.  Wide
+  variation here, in terms of job responsibilities, possible need for an
+advanced degree and so on.  If for instance the job title involves
+"machine learning," and advanced degree is almost certainly required.
 
 * Database analysts:  A big bank would quickly go out of business if its
   software and hardware couldn't keep up with the huge daily olume of checks,
 credit card transaction and so on.  Making the database speedy is thus
 of huge importance.
 
-* Computer security specialists:  How to foil the Bad Guys?
+* Data security specialists:  How to foil the Bad Guys?  This requires a
+  finely intricate knowledge of computer systems, especially computer
+networks.
 
-## Hardware vs. software
+## The high value of computer systems knowledge
 
-* Very few CS grads, even those with the word "Engineering" in their
-  diplomas, actually design hardware.  HOWEVER, knowledge of high-level
-hardware (*computer architecture*) and low-level software (operating
-systems, OS) is extremely important.
+If you *any* kind of work with computers, the deeper your knowledge of
+computer systems, the better.  Some examples:
+
+* I was recently using an R package that at one point gave me an error
+  message, "Non-numeric data encountered."  It seemed odd, because the
+variable in question *was* numeric, wage income in dollars.  R is
+written in the C language (as is Python), which distinguishes between
+integers like 3 and real numbers such as 8.1, so I immediately realized
+and solved the problem.  Advice:  If you are in DS/Stat, take C/C++ even
+if not required.
+
+* R and Python are *interpreted* languages.  In some cases, this can
+  make them run slowly.  With Big Data, execution speed may be
+imperative, and the solution may be to write code that it mainly
+R/Python but also partly C/C++.  Again, skill in the latter is
+important.
 
 * Illustrative story:  Once the daughter of family friends of ours
-received a scholarship to study the Chinese language in China. She
-returned home with lots of pictures on her laptop.  Unfortunately, her
-little sister dropped the machine, and it would not reboot.  The
-pictures were lost!  But with my knowledge of OS, disk drives and so on,
-I was able to recover most of the pics.
+  received a scholarship to study the Chinese language in China. (She
+was not Asian, by the way.)  She returned home with lots of pictures on
+her laptop.  Unfortunately, her little sister dropped the machine, and
+it would not reboot.  The pictures were lost!  But with my knowledge of
+OS--boot up, file systems and so on--I was able to recover most of the
+pics.
 
 * Large software applications, e.g. the bank database example above,
 generally place a premium on speed.  This in turn requires a firm
 understanding of high level hardware and low-level software.
 
-* Computer security requires a keen knowledge of OS, especially network
-  operation.  For a great read and a glimpse into how hackers exploit
-holes in the OS, read *The Cuckoo's Nest*, by Cliff Stoll.  There's also
-a bit at the very beginning of the film *A Social Network*, the story of
-the founding of Facebook.
+* Computer security requires a keen knowledge of operating systems,
+  especially network operation.  For a great read and a glimpse into how
+hackers exploit holes in the OS, read *The Cuckoo's Nest*, by Cliff
+Stoll.  There's also a bit at the very beginning of the film *A Social
+Network*, the story of the founding of Facebook.
 
 If you are required to take a course in assembly language, do NOT treat
 this as "just another language."  *It is your window into 
 computer systems*, a way to learn abouy computer architecture and OS..
 
-By the time you graduate, you should be able to answer questions like
+By the time you graduate, you who are in CS, and ideally those of you in
+DSStat, should be able to answer questions like
 (these are just examples):
 
 * How does an OS boot up?
@@ -94,13 +125,14 @@ By the time you graduate, you should be able to answer questions like
 * How does a file system work?
 
 Most or all of these matters will NOT be covered in typical OS and
-architecture classes.  You should have enough curiosity to think about
-them and track down the answers if you can't figure them out yourself.
+computer architecture classes.  You should have enough curiosity to
+think about them and track down the answers if you can't figure them out
+yourself.
 
 ## Windows vs. Mac vs. Linux
 
-Windows is a great OS for non-CS people, but most computer scientists --
-and most employers of computer scientists -- use some form of Unix,
+Windows is a great OS for non-tech people. But most CSDSStat
+people and their employers use some form of Unix,
 either a Mac or Linux.  Use your Unix system for *all of your daily
 computer work* -- not just coding, but also e-mail, essay writing,
 Website building and so on.
@@ -112,19 +144,60 @@ use the Linux subsystem in Windows.  It lacks many capabilities.
 
 ## Coursework is not enough
 
-As noted, use a Unix system for ALL your daily work.  This daily usage
-is the ONLY way to learn Unix; coursework is not enough.  
+**THIS IS AN EXTREMELY IMPORTANT POINT.**
 
-Write little **bash** shell scripts to help you with your daily work,
-automating tasks.  Write larger programs for your own personal use.
-Make sure it's something you WILL use, for motivation.  You will grow
-from these projects as much as you will from any class, probably
-more.
+Sadly, typical courses won't give you the true, practical insight you
+need to effectively do CSDSStat work.  Examples:
+
+* As noted above, it's good to understand OS, e.g. in terms of how a
+  machine boots up.  Yet this almost certainly will not be covered in an
+OS class, let alone in computational courses in DSStat.
+
+* In a DSStat course, you will learn about stat methods that assume a
+  normal/Gaussian distribution.  But you almost certainly won't be
+taught that no such assumptions exist in real life (e.g. no one is 100
+feet tall or has a negative height), or whether the assumptions
+matter.
+
+The remedy:  Learn nonpassively.  Question what you learn.  Fill in the
+gaps, first by trying to reason them out, then by consulting with your
+instructors, then finally--of course--by going to the Internet.
+
+## The impact of grade inflation
+
+These days, many instructors not only give absurdly high grades--at my
+university, I've seen a number of courses in which 1/3 of the students
+get A+ grades!--but also are very undemanding.  Their lectures lack
+depth, and avoid the more difficult concepts.  Exams are simply
+warmed-over homework problems.
+
+You should seek out the professors who will challenge you, but if you
+get some easy ones, don't fool yourself into thinking that that A/A+
+grade means you have good knowledge of the subject matter.  Again, go
+back what is expected of you, as explained above.
+
+## Textbooks
+
+Following up on the above point:
+
+Most professors choose their textbooks very carefully, but naively and
+wrongly assume the students actually read them.
+
+Read the textbook!  Read it for deep understanding.  If you see a page
+consisting only of prose, with no code, no equations, and no figures, do
+not conclude there is no content!  On the contrary, *that page may be one
+of the most important ones in the book*.  You actually should spend extra
+time on such pages.
+
+Pause often for thought.  Your reading will likely cause you to have
+lots of questions.  Indeed, if you have no questions, you probably have not
+been reading critically.  Think hard in trying to answer the questions
+yourself, and ask your professor or TAs about the rest.
 
 ## "No pain, no gain"
 
-What does this old saying mean, in the CS context?  It does NOT mean "Work
-yourself to death."  It does NOT mean "Take 5 courses per
+What does this old saying mean, in the CSDSStat context?  It does NOT
+mean "Work yourself to death."  It does NOT mean "Take 5 courses per
 semester/quarter," and so on.
 
 What it does mean is to give your work long, hard thought.  Can't see
@@ -141,14 +214,32 @@ favor.  Try to take courses from professors who challenge you.
 The same point holds for mathematical courses, whether in a CS, Math or
 Stat Department.
 
-## "The Internet is your friend"
+## Avoid taking many courses in your major on a P/NP grading basis
 
-On the other hand, do make use of Google, the Wikipedia and so on.  Say
-you get an error message from the compiler or OS, whose phrasing is
-unclear.  Don't hesitate to use Web resources.  Note that in some cases,
-no one Web site will solve your problem, but you may be able to piece
-together information from several sites to gain the insight you need to
-understand and fix the error.
+Frankly, this looks bad to a potential employer or graduate admissions
+committee.  It suggests that the student put in only minimal work in
+those P/NP courses, and even has the connotation that the student is
+"gaming the system."
+
+## The field of machine learning is mathematical modeling, not programming
+
+Machine learning (ML) is NOT a branch of software engineering.  Your ML
+course will almost certainly have you do some coding, but if you
+conclude that ML is about choosing which function to call, and knowing
+the functions arguments, you've missed the point entirely.
+
+ML is also not about plugging into formulas.  It is an art, not a
+science.  There is no formulaic solution to problems, especially
+overfitting.  Professor Yaser Abu-Mostafa of Caltech, a prominent ML
+figure, once summed it up: 
+
+> The ability to avoid overfitting is what separates professionals from
+> amateurs in ML.
+
+(https://www.youtube.com/watch?v=EQWr3GGCdzw)
+
+My Google query on ``overfitting'' yielded 6,560,000 results!  Again,
+careful thought about the subject matter is key.
 
 ## Make real USE of what you learn
 
@@ -194,34 +285,6 @@ is a DNS problem.
   if you can
 
 * Advanced statistics:  See below
-
-## Choosing your professors
-
-The temptation, of course, is to take the path of least resistance,
-selecting professors on the basis of their reputation for easiness.
-Fight this temptation, and *choose instructors who will really help you
-grow intellectually*, the type who:
-
-* Give challenging, thought provoking assignnments and exams.  In a
-  programming course, this means having you write code on exams
-(even if brief), rather than focusing on syntax and the like.
-
-* Do prominent research in their field, *and* are excited about sharing
-  their insights with their students.  This is the real advantage of
-attending a research university, if you are at such an institution.
-
-## Textbooks
-
-Read the textbook!  Read it for deep understanding.  If you see a page
-consisting only of prose, with no code, no equations, and no figures, do
-not conclude there is no content!  On the contrary, *that page may be one
-of the most important ones in the book*.  You actually should spend extra
-time on such pages.
-
-Pause often for thought.  Your reading will likely cause you to have
-lots of questions.  Indeed, if you have no questions, you probably have not
-been reading critically.  Think hard in trying to answer the questions
-yourself, and ask your professor or TAs about the rest.
 
 ## Get a summer internship
 
