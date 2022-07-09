@@ -376,7 +376,7 @@ in mind throughout your study of ML.
 
 ## The role of math courses
 
-*Calculus**
+*Calculus*
 
 Again, don't just plug into formulas; gaining intuition is key.
 
