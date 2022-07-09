@@ -18,11 +18,15 @@ We'll cover a variety topics, so let's get started!
 ## My background
 
 Different people may have different views on the topics here.  Thus
-we must begin with my explaining the background affecting my views.
+we must begin with my explaining the background affecting my
+views/biases.
 
-My PhD is in pure math, and I am a founder of both the CS and Stat
+My PhD, done back in ancient times, was in 
+[pure, very abstract math](https://projecteuclid.org/journals/annals-of-probability/volume-5/issue-3/Ergodicity-Conditions-for-a-Dissonant-Voting-Model/10.1214/aop/1176995798.full).
+Later, I shifted statistics and CS, 
+and I am a founder of both the CS and Stat
 Departments at my university.  My current research areas are machine
-learning, parallel computation, and statistics.  
+learning, fair data analysis, and missing values.
 
 I've been fortunate to be recognized for my work.  I've won the
 university-wide Distinguished Teaching Award, Outstanding Adviser Award,
@@ -230,7 +234,7 @@ offer might be nice, but treat that as a bonus.
 ## Develop your speaking and writing skills
 
 I know, you're saying, "Yes, yes, we've been told about this ever since
-high school."  But it's even more of a key issue for CS people.
+high school."  But it's even more of a key issue for CSDSStat people.
 
 Craig Barrett, former CEO of Intel, once famously remarked, "The
 half-life of an engineer is only a few years."  In other words, if say
@@ -321,7 +325,7 @@ time and money spent etc.  This is true both for a Master's degree and a
 PhD.
 
 Master's degree quality varies tremendously from school to school.  If
-you get a CS Bachelor's degree from a research-oriented
+you get a CSDSStat Bachelor's degree from a research-oriented
 university, and later get a Master's from a non-research school, you may
 find that the latter's Master's curriculum is similar to, maybe even
 inferior to, your undergrad material.
@@ -364,6 +368,11 @@ So you can see that ML is not about what specific function to call or
 what formula to plug into.  It really is an art, not a science.
 My Google query on ``overfitting'' yielded 6,560,000 results!  Again,
 careful thought about the subject matter is key.
+
+Absolutely central to ML in particular and predictive modeling in
+general is the distinction between conditional and unconditional
+probability, especially the conditional mean.  Again, keep the intuition
+in mind throughout your study of ML.
 
 ## The role of math courses
 
@@ -421,22 +430,34 @@ and solved the problem.  Advice:  If you are in DS/Stat, take C/C++ even
 if not required.
 
 * R and Python are *interpreted* languages.  In some cases, this can
-  make them run slowly.  With Big Data, execution speed may be
+  make them run slowly.  (Do you know why?  
+[Click here.](https://tinyurl.com/78rb7cjc))
+With Big Data, execution speed may be
 imperative, and the solution may be to write code that it mainly
 R/Python but also partly C/C++.  Again, skill in the latter is
 important.
 
-* Illustrative story:  Once the daughter of family friends of ours
-  received a scholarship to study the Chinese language in China. (She
-was not Asian, by the way.)  She returned home with lots of pictures on
-her laptop.  Unfortunately, her little sister dropped the machine, and
-it would not reboot.  The pictures were lost!  But with my knowledge of
-OS--boot up, file systems and so on--I was able to recover most of the
-pics.
+* Illustrative story, especially for CS students but for all:  Once the
+  daughter of family friends of ours received a scholarship to study the
+Chinese language in China. (She was not Asian, by the way.)  She
+returned home with lots of pictures on her laptop.  Unfortunately, her
+little sister dropped the machine, and it would not reboot.  The
+pictures were lost!  But with my knowledge of OS--boot up, file systems
+and so on--I was able to recover most of the pics.
 
 * Large software applications, e.g. the bank database example above,
 generally place a premium on speed.  This in turn requires a firm
-understanding of high level hardware and low-level software.
+understanding of high level hardware and low-level software.  
+
+* One way to *possibly* speed up your code is to use parallel
+  computation, on a multicore machine, on a computing cluster, and even
+a GPU.  The R ecosystem includes a number of packages for this, such as
+**parallel**, **foreach** and **future**.  BUT BEWARE!  Your parallel
+code may actually be slower than your serial (i.e. nonparallel) version.
+To use parallelism effectively requires a good knowledge of things like
+how memory access works.  
+[Click here](https://matloff.wordpress.com/2017/07/29/understanding-overhead-issues-in-parallel-computation/)
+to learn more.
 
 * Computer security requires a keen knowledge of operating systems,
   especially network operation.  For a great read and a glimpse into how
