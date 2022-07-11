@@ -494,7 +494,7 @@ if not required.
 
 * R and Python are *interpreted* languages.  In some cases, this can
   make them run slowly.  (Do you know why?  
-[Click here.](https://tinyurl.com/78rb7cjc))
+[Click here.](https://tinyurl.com/4zt39w72))
 With Big Data, execution speed may be
 imperative, and the solution may be to write code that is mainly
 R/Python but also partly C/C++.  Again, skill in the latter is
