@@ -1,7 +1,9 @@
 
 # How to Make the Most of Your Computer Science/Data Science/Statistics Major
 
-## What no one else will tell you. :-)
+# What no one else will tell you. :-)  
+
+<br></br>
 
 ## Prof. Norm Matloff, University of California, Davis CS Dept.
 
@@ -13,11 +15,14 @@ Computer Science, Data Science and Statistics (CS/DS/Stat) are
 fascinating, fast-growing fields.  It's an exciting
 time to be in tech -- but how to make the most of this opportunity?  
 
-The organization of this document is as follows.  Approximately the
-first half will be on general learning issues, e.g. careful reading of
-textbooks, what to do about grade inflation, the importance of summer
-internships etc.  The second half will provide advice on studying
-specific courses, such as machine learning.
+The organization of this document is as follows.  
+
+* Approximately the first half will be on general learning issues, e.g.
+careful reading of textbooks, what to do about grade inflation, the
+importance of summer internships etc.  
+
+* The second half will provide advice on studying specific courses, such
+as machine learning.
 
 We'll cover a variety topics, so let's get started!  
 
@@ -27,21 +32,21 @@ Different people may have different views on the topics here.  Thus
 we must begin with my explaining the background affecting my
 views/biases.
 
-My PhD, done back in ancient times, was in 
+^ My PhD, done back in ancient times, was in 
 [pure, very abstract math](https://projecteuclid.org/journals/annals-of-probability/volume-5/issue-3/Ergodicity-Conditions-for-a-Dissonant-Voting-Model/10.1214/aop/1176995798.full).
 Later, I shifted to statistics and CS, 
 and I am a founder of both the CS and Stat
 Departments at my university.  My current research areas are machine
 learning, fairness in data analysis, and missing values.
 
-I've been fortunate to be recognized for my work.  I've won the
+^ I've been fortunate to be recognized for my work.  I've won the
 university-wide Distinguished Teaching Award, Outstanding Adviser Award,
 and Distinguished Public Service Award.  My book, *Statistical
 Regression and Classification: from Linear Models to Machine Learning*
 was the 2017 recipient of the Ziegal Award, given by the statistics 
 journal *Technometrics*.  
 
-I am quite active in the R programming language.  I've published a
+^ I am quite active in the R programming language.  I've published a
 number of books that use R, and have written various packages on CRAN
 and GitHub.  I've served as Editor-in-Chief of the *R Journal* and
 Associate Editor of the *Journal of Statistical Software*.  I've written
@@ -50,11 +55,10 @@ a rather popular [R tutorial](http://github.com/matloff/fasteR), and a
 tidyverse](http://github.com/matloff/TidyverseSkeptic) that many have
 found cogent.
 
-
-My time in industry was long, long ago, but I have always kept close
+^ My time in industry was long, long ago, but I have always kept close
 ties to the real world.  I frequently interact with people in Silicon
 Valley, and keep close tabs on the job market. Syndicated columnist
-Joyce Lain Kennedy has features my advice on career issues in her books,
+Joyce Lain Kennedy has featured my advice on career issues in her books,
 *Resumes for Dummies*, *Job Hunting for Dummies* and *Cover Letters for
 Dummies*. 
 
@@ -101,12 +105,12 @@ career to evolve over time.
 
 Windows is a great OS for non-tech people. But most CS/DS/Stat
 people and their employers use some form of Unix,
-either a Mac or Linux.  Use your Unix system for *all of your daily
+either on a Mac or on Linux.  Use your Unix system for *all of your daily
 computer work* -- not just coding, but also e-mail, essay writing,
-Website building and so on.
+Website building and so on---in order to really learn it well.  
 
-Facility in the Unix **bash** shell is especially useful.  Develop skill
-in this.
+And don't neglect the command line!  Facility in the Unix **bash** shell
+is especially useful.  Develop skill in this.
 
 If you want to retain Windows for video games or whatever, that's fine
 -- set up your system to dual-boot the two systems.  In fact, the
@@ -147,9 +151,11 @@ get some easy ones, don't fool yourself into thinking that that A/A+
 grade means you have good knowledge of the subject matter.  Again, go
 further than what is expected of you, as explained above.
 
-## Textbooks
+Beware of any stat/ML instructor who presents matters with a flow chart
+("in this situation, do this...").  It will typically be a misleading
+oversimplification.
 
-Following up on the above point:
+## Textbooks
 
 Most professors choose their textbooks very carefully, but naively and
 wrongly assume the students actually read them.
@@ -203,7 +209,7 @@ job interviewes will probe your depth.
 
 ## Make real USE of what you learn
 
-*Debugging code*
+### *Debugging code*
 
 In writing your own code, make sure to use a debugging tool.  You may
 have learned to do this in your intro programming course, but then just
@@ -213,8 +219,7 @@ get good at the debugger, it will really shorten the time you need to
 find and fix your code bugs.  Do you really want to pull an all-nighter
 to fix your bugs?  No?  Then use a debugging tool.
 
-*Commenting code:  do this to help YOURSELF, not to please your
-insttuctor*
+### *Commenting code:  do this to help YOURSELF, not to please your insttuctor*
 
 Story:  Once there were two students talking to the instructor across
 the hall from my office.  I heard one say to the other in awe, "Did you
@@ -372,6 +377,29 @@ questions.
 
 And no matter how introverted you are, don't just sit there "like a bump
 on a log"!  Speak up!  Venture opinions!  Ask questions!
+
+## Beware of hype
+
+You will often hear people rave about some new tech "innovation" (I'll
+call it INV), say a new programming language or library, or a new
+machine learning method.  There may well be considerable merit to the
+New, New Thing, but much of the hoopla will typically be hype.  Ask
+yourself:
+
+* How "new" is INV, really?  Most innovations are incremental?
+
+* Is INV's "science fiction"-like name, say "Radical Random Trek," more
+marketing than technical advance?
+
+* If the advocates of INV supply data showing INV superior, how broad
+was their empirical investigation?  Does their analysis set up a "straw
+man" for comparison?
+
+* Is INV fulfilling a genuine need, as opposed to one created to justify
+using INV?
+
+This is not to say INV is not a genuine advance.  But a dose of healthy
+skepticism may be in order.
 
 ## Graduate school
 
