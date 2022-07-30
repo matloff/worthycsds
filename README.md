@@ -9,6 +9,38 @@
 
 ![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.png)
 
+# Table of contents
+
+- [How to Make the Most of Your Computer Science/Data Science/Statistics Major](#how-to-make-the-most-of-your-computer-sciencedata-sciencestatistics-major)
+- [What no one else will tell you. :-)](#what-no-one-else-will-tell-you--)
+  - [Prof. Norm Matloff, University of California, Davis CS Dept.](#prof-norm-matloff-university-of-california-davis-cs-dept)
+  - [Purpose of this document](#purpose-of-this-document)
+  - [My background](#my-background)
+- [The picture above](#the-picture-above)
+- [What do CS/DS/Stat graduates do?](#what-do-csdsstat-graduates-do)
+- [General coursework/learning issues](#general-courseworklearning-issues)
+  - [Windows vs. Mac vs. Linux](#windows-vs-mac-vs-linux)
+  - [Coursework is not enough](#coursework-is-not-enough)
+  - [The impact of grade inflation](#the-impact-of-grade-inflation)
+  - [Textbooks](#textbooks)
+  - ["No pain, no gain"](#no-pain-no-gain)
+  - [Avoid taking many courses in your major on a P/NP grading basis](#avoid-taking-many-courses-in-your-major-on-a-pnp-grading-basis)
+  - [Don't do a double major](#dont-do-a-double-major)
+  - [Make real USE of what you learn](#make-real-use-of-what-you-learn)
+  - [Get a summer internship](#get-a-summer-internship)
+  - [Speaking and writing skills, and evolution of your career over time](#speaking-and-writing-skills-and-evolution-of-your-career-over-time)
+  - [Don't neglect the social aspect](#dont-neglect-the-social-aspect)
+  - [Possibly engage in undergraduate research](#possibly-engage-in-undergraduate-research)
+  - [Seeking and interviewing for jobs](#seeking-and-interviewing-for-jobs)
+  - [Beware of hype](#beware-of-hype)
+  - [Graduate school](#graduate-school)
+- [Specific courses](#specific-courses)
+  - [The field of machine learning is mathematical modeling, NOT programming](#the-field-of-machine-learning-is-mathematical-modeling-not-programming)
+  - [Statistical methodology courses](#statistical-methodology-courses)
+  - [The role of math courses](#the-role-of-math-courses)
+  - [The high value of computer systems knowledge](#the-high-value-of-computer-systems-knowledge)
+  - [Classes to take if possible, whether required or not](#classes-to-take-if-possible-whether-required-or-not)
+
 ## Purpose of this document
 
 Computer Science, Data Science and Statistics (CS/DS/Stat) are
@@ -458,8 +490,9 @@ area.  X may be very good in, say, computer security but weak in machine
 learning.  So take your field(s) of interest into account.
 
 In applying to grad school, note that letters of recommendation tend to
-be crucial, even more than grades and test scores.  See
-[these sample letters](http://heather.cs.ucdavis.edu/~matloff/LettersOfRec.html)
+be crucial, even more than grades and test scores.  See 
+[advice and sample letters](http://heather.cs.ucdavis.edu/~matloff/LettersOfRec.html), as well as
+[here](https://luplab.cs.ucdavis.edu/2021/09/03/letters-of-recommendation.html).
 
 Once you get to grad school, you'll notice immediately that the climate
 has changed from the undergrad world.  Your classmates will now consist
@@ -495,6 +528,12 @@ Absolutely central to ML in particular and predictive modeling in
 general is the distinction between conditional and unconditional
 probability, especially the conditional mean.  Again, keep the intuition
 in mind throughout your study of ML.
+
+## Statistical methodology courses
+
+**See above material on ML courses.**  If all you know--or all your
+instructor requires you to know--is how to use various R packages, you
+are pretty much useless to employers.
 
 ## The role of math courses
 
@@ -548,14 +587,13 @@ computer systems, the better.  Some examples:
 variable in question *was* numeric, wage income in dollars.  R is
 written in the C language (as is Python), which distinguishes between
 integers like 3 and real numbers such as 8.1, so I immediately realized
-and solved the problem.  Advice:  If you are in DS/Stat, take C/C++ even
-if not required.
+and solved the problem.  
 
 * R and Python are *interpreted* languages.  In some cases, this can
-  make them run slowly.  (Do you know why?  
-[Click here.](https://tinyurl.com/4zt39w72))
-With Big Data, execution speed may be
-imperative, and the solution may be to write code that is mainly
+make them run slowly.  (Do you know why?  And why are 
+*vectorized* operations faster?  [Click 
+here.](https://tinyurl.com/4zt39w72)) With Big Data, execution speed may
+be imperative, and the solution may be to write code that is mainly
 R/Python but also partly C/C++.  Again, skill in the latter is
 important.
 
@@ -627,6 +665,10 @@ DS/Stat majors:
 * Sampling theory/experimental design
 
 * Discrete math
+
+* C/C++
+
+* Computer systems (bits, bytes, CPU, memory, us etc.)
 
 * The above CS courses, especially database
 
