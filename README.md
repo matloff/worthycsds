@@ -241,28 +241,31 @@ determine which array elements caused the total to exceed its limit."
 Comments become indispensable when you return to some code after a few
 months, and zero recall of what you did.
 
-*Means, proportions and graphs in your daily life, especially Simpson's
-Paradox:*
+***Means, proportions and graphs in your daily life, especially Simpson's
+Paradox:***
 
 This applies particularly to DS/Stat majors, but it is definitely
 relevant to CS students as well.
 
 Data analysis shows up on a daily basis, on vitally important topics
 such as the economy and the Covid pandemic.  The value of such data can
-range from enormously informative to enormously deceiving.  Since you
+range from enormously informative to enormously misleading.  Since you
 are data experts!, you'll want to hone your skills at ferreting out the
 good and the bad.
 
 When viewing any data on proportions, the key question is "What's the
 denominator?"  For instance, when viewing a statement like, "The
-infection rate for Covis is x%," ask, "x% out of which subpopulation?"
+infection rate for Covid is x%," ask, "x% out of which subpopulation?"
 x% of all people?  Of all adults?  Of people who are exposed to a
-sufferer of Covid?" and so on.  This can make a huge difference.
+sufferer of Covid?" and so on.  This makes a huge difference.
 
-Problems can arise in very unintuitive ways, often via *Simposon's
-Paradox*.  The
+You can't call yourself a data expert unless you know--and can cogently
+explain--*Simpson's Paradox*.  The
 [Wikipedia entry](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
-is good, but I like the reading titled
+is good, and it contains a really famous example involving UC Berkeley
+graduate admissions.  (The R language has the data on this, in a dataset
+named **UCBAdmissions**.)
+But I like reading a paper cleverly titled
 [Good for Women, Good for Men, Bad for People](https://www.researchgate.net/publication/11608762)_
 That title says it all!  Do yourself an epic favor by doing some slow,
 careful reading here, and keep it in mind forever.  Yes, it IS that
@@ -282,18 +285,18 @@ code, make sure it is valuable to the employer.  Make doubly sure that
 your code WORKS, including on edge cases, and that the code is clear
 (see the points above about comments).
   
-Be punctual (even if your permanent-position co-workers are not).  Don't
-be shy about speaking up in meetings.  Make sure to ask questions about
+Be punctual (even if your permanent-position co-workers are not).  **Don't
+be shy about speaking up in meetings.**  Make sure to ask questions about
 what you don't understand (though first make your best effort to figure
 out the answers on your own).
 
 Your employer hired you in part because they may want to hire you after
 you graduate, so this is really like a very extended interview.  Keep
 this in mind, but on the other hand, don't let this fact pressure you.
-You are there to learn, and hopefully to enjoy.  A post-graduation job
-offer might be nice, but treat that as a bonus.
+**You are there to learn, and hopefully to enjoy**.  A post-graduation job
+offer would be nice, no question about it, but **treat that as a bonus**.
 
-## Develop your speaking and writing skills
+## Speaking and writing skills, and evolution of your career over time 
 
 I know, you're saying, "Yes, yes, we've been told about this ever since
 high school."  But it's even more of a key issue for CS/DS/Stat people.
@@ -302,7 +305,11 @@ Craig Barrett, former CEO of Intel, once famously remarked, "The
 half-life of an engineer is only a few years."  In other words, if say
 you begin your career as a software engineer, you will likely find that
 after 5-10 years, you are asked to transition into management or some
-other "talking job."  Though there are of course exceptions, the odds
+other "talking job."  Or, if you look for a job at another employer, you
+may find that the main type of work open to you is of a "talking job"
+nature.
+
+Though there are of course exceptions, the odds
 are that the further along you are in your career, the less time you
 spend doing explicitly technical things, and the more time you spend
 talking and writing.  If you've ever visited a company that produces
@@ -310,12 +317,21 @@ software, you probably noticed that most of the coders are in their 20s
 or early 30s; this is no coincidence.
 
 And though, yes, coursework in writing and speaking helps to some
-extent, *you can only grow by working on these things yourself*.  When
-you are writing something, ask yourself what you can do to make your
-thoughts clearer.  And if you have a fear of speaking out in the group,
-overcome it!
+extent, ***you can only grow by working on these things yourself***.  
 
-If you did not grow up speaking English, don't worry about your accent
+* When you are writing something, continually ask yourself what you can
+do to make your thoughts clearer.  And, make sure that you put down your
+draft once in a while and do something else; when you return, you may be
+horrified at what you've written :-) and make improvements.  Repeat the
+cycle.
+
+* If you have a fear of speaking out in the group, overcome it!  All the
+coursework in the world won't solve this; it needs to come from YOU.
+And don't obsess over an "error" that you may feel you made in speaking
+up.  Even the smartest, most respected people often make erroneous or
+inappropriate things.
+
+* If you did not grow up speaking English, don't worry about your accent
 or grammar.  Just work on expressing yourself well.  Engage in campus
 club or volunteer activities where you can really grow verbally.
 
@@ -386,7 +402,7 @@ machine learning method.  There may well be considerable merit to the
 New, New Thing, but much of the hoopla will typically be hype.  Ask
 yourself:
 
-* How "new" is INV, really?  Most innovations are incremental?
+* How "new" is INV, really?  Most innovations are incremental.
 
 * Is INV's "science fiction"-like name, say "Radical Random Trek," more
 marketing than technical advance?
@@ -397,6 +413,9 @@ man" for comparison?
 
 * Is INV fulfilling a genuine need, as opposed to one created to justify
 using INV?
+
+* Do the people who are raving about INV seem to not really understand
+INV, just jumping on the bandwagon?
 
 This is not to say INV is not a genuine advance.  But a dose of healthy
 skepticism may be in order.
@@ -421,7 +440,19 @@ university, and later get a Master's from a non-research school, you may
 find that the latter's Master's curriculum is similar to, maybe even
 inferior to, your undergrad material.
 
-On the other hand, one should not necessarily talk about whether the CS
+Similarly, many elite universities now offer Master's programs that,
+frankly, have as their sole purpose **making money for the school**.
+They can be spotted this via these characteristics:
+
+* Truly exhorbitant tuition.
+
+* Low admissions bars; students who had no hope of being accepted to the
+university now get in easily.
+
+* Their Web sites promoting the program put inordinate emphasis on how
+many employers hire the program's graduates.
+
+On the other hand, one should not necessarily talk about whether the 
 graduate program at University X is "good."  It depends on the research
 area.  X may be very good in, say, computer security but weak in machine
 learning.  So take your field(s) of interest into account.
@@ -478,7 +509,7 @@ tell us we are at a minimum?
 *Linear algebra*
 
 Again, intuition is crucial, e.g. the geometric interpretation of vector
-spaces. Again, the WHY is important, e.g. why are matrices usueful?
+spaces. Again, the WHY is important, e.g. why are matrices useful?
 Could we do the same operations without them?
 
 *Abstract math*
