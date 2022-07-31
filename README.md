@@ -251,7 +251,7 @@ get good at the debugger, it will really shorten the time you need to
 find and fix your code bugs.  Do you really want to pull an all-nighter
 to fix your bugs?  No?  Then use a debugging tool.
 
-### *Commenting code:  do this to help YOURSELF, not to please your insttuctor*
+### *Commenting code:  do this to help YOURSELF, not to please your instructor*
 
 Story:  Once there were two students talking to the instructor across
 the hall from my office.  I heard one say to the other in awe, "Did you
