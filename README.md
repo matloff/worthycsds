@@ -7,9 +7,7 @@
 
 ## Prof. Norm Matloff, University of California, Davis CS Dept., matloff@cs.ucdavis.edu
 
-## QUESTIONS WELCOME!
-
-Please send to the above e-mail addess
+## QUESTIONS WELCOME!  Please send to the above e-mail addess
 
 ![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.png)
 
