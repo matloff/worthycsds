@@ -7,7 +7,7 @@
 
 ## Prof. Norm Matloff, University of California, Davis CS Dept., matloff@cs.ucdavis.edu
 
-## <span style="color:red">QUESTIONS WELCOME!</span>.  
+<span style="color:red">QUESTIONS WELCOME!</span>.  
 
 Please send to the above e-mail addess
 
