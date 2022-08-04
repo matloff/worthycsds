@@ -5,7 +5,11 @@
 
 <br></br>
 
-## Prof. Norm Matloff, University of California, Davis CS Dept.
+## Prof. Norm Matloff, University of California, Davis CS Dept., matloff@cs.ucdavis.edu
+
+## <span style="color:red">QUESTIONS WELCOME!</span>.  
+
+Please send to the above e-mail addess
 
 ![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.png)
 
