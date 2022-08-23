@@ -11,6 +11,9 @@
 
 ![alt text](https://raw.githubusercontent.com/matloff/prVis/master/data/SwissRoll/SWwithY.png)
 
+(Opinions expressed here are solely those of the author, not of any of
+his affiliations, such as the University of California.)
+
 # Table of contents
 
 - [How to Make the Most of Your Computer Science/Data Science/Statistics Major](#how-to-make-the-most-of-your-computer-sciencedata-sciencestatistics-major)
