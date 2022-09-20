@@ -474,7 +474,7 @@ study, then maybe you "can't afford it," in terms of time and money
 spent etc.  This is true both for a Master's degree and a PhD.
 
 Yes, you may be undecided at first.  But if you go ahead and study at
-the graduate level, you need to be excited about it.  If no, you
+the graduate level, you need to be excited about it.  If not, you
 probably will not derive much benefit from it.
 
 Master's degree quality varies tremendously from school to school.  If
@@ -507,7 +507,7 @@ be crucial, even more than grades and test scores.  See
 
 Once you get to grad school, you'll notice immediately that the climate
 has changed from the undergrad world.  Your classmates will now consist
-of people who have a genuine intellectual curiosity about CS, which may
+of people who have a genuine intellectual curiosity about CS/DS, which may
 not have been the case for many of your undergrad friends.  In class,
 you are now expected to be much more active, questioning and
 independent-thinking.
