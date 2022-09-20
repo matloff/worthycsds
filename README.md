@@ -99,6 +99,9 @@ Joyce Lain Kennedy has featured my advice on career issues in her books,
 *Resumes for Dummies*, *Job Hunting for Dummies* and *Cover Letters for
 Dummies*. 
 
+Further details of my background are in my
+[bio](http://heather.cs.ucdavis.edu/matloff.html).[
+
 Of course, the material here represents my own views only, and does not
 imply endorsement by my university or department.  And again, others may
 have different opinions.
@@ -469,6 +472,10 @@ point is that, for the most part, you will only gain from grad school if
 you really want to do it; if you have to ask whether to pursue graduate
 study, then maybe you "can't afford it," in terms of time and money
 spent etc.  This is true both for a Master's degree and a PhD.
+
+Yes, you may be undecided at first.  But if you go ahead and study at
+the graduate level, you need to be excited about it.  If no, you
+probably will not derive much benefit from it.
 
 Master's degree quality varies tremendously from school to school.  If
 you get a CS/DS/Stat Bachelor's degree from a research-oriented
