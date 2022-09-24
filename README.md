@@ -232,7 +232,15 @@ you a detailed outline of the code structure, the instructor is not doing you a
 favor.  Try to take courses from professors who challenge you.
 
 The same point holds for mathematical courses, whether in a CS, Math or
-Stat Department.
+Stat Department.  Indeed, for *any* course:
+
+> If there is something in your course that you don't understand, **DON'T
+> LET IT GO**.  Insist to yourself that you will track down the answer
+> somehow.  Try hard to reason it out on your own, but if that doesn't
+> work (and if Google doesn't help), see your professor!
+> <br>
+> This simple, though very self-disciplining, strategy will pay huge
+> dividends in your insight.
 
 ## Avoid taking many courses in your major on a P/NP grading basis
 
