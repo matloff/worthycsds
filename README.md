@@ -29,6 +29,7 @@ his affiliations, such as the University of California.)
   - [The impact of grade inflation](#the-impact-of-grade-inflation)
   - [Textbooks](#textbooks)
   - ["No pain, no gain"](#no-pain-no-gain)
+  - [What to do when it seems overwhelming](#what-to-do-when-it-seems-overwhelming)
   - [Avoid taking many courses in your major on a P/NP grading basis](#avoid-taking-many-courses-in-your-major-on-a-pnp-grading-basis)
   - [Don't do a double major](#dont-do-a-double-major)
   - [Make real USE of what you learn](#make-real-use-of-what-you-learn)
@@ -241,6 +242,26 @@ Stat Department.  Indeed, for *any* course:
 > <br>
 > This simple, though very self-disciplining, strategy will pay huge
 > dividends in your insight.
+
+## What to do when it seems overwhelming
+
+No doubt about it, a STEM major can be intense.  On some days, you may
+feel the workload is overwhelming.  What can be done about this?
+
+* Don't overload yourself.  *Every task ulitmately takes longer than
+  anticipated*.  Try to plan your time in college accordingly, taking
+  fewer courses per term, supplemented by summer school, if possible.
+  Start assignments as soon as they are announced, to avoid last-minute
+  panic.
+
+* Take "baby steps."  In starting work on a large programming
+  assignment, say, tell yourself something like, "This evening I'll just
+  get a start, by tentatively setting up the functions and variables
+  that I'll need."  That gives you a handle-able, nonintimidating 
+  goal.  After you achieve that goal, you may say to yourself, "Hmm, I
+  still have some time; I think I'll start writing that first function."
+  The same ideas apply to starting lengthy/challenging math assignments
+  and so on.
 
 ## Avoid taking many courses in your major on a P/NP grading basis
 
