@@ -248,7 +248,7 @@ Stat Department.  Indeed, for *any* course:
 No doubt about it, a STEM major can be intense.  On some days, you may
 feel the workload is overwhelming.  What can be done about this?
 
-* Don't overload yourself.  *Every task ulitmately takes longer than
+* Don't overload yourself.  *Every task ultimately takes longer than
   anticipated*.  Try to plan your time in college accordingly, taking
   fewer courses per term, supplemented by summer school, if possible.
   Start assignments as soon as they are announced, to avoid last-minute
