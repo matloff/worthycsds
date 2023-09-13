@@ -53,6 +53,34 @@ Computer Science, Data Science and Statistics (CS/DS/Stat) are
 fascinating, fast-growing fields.  It's an exciting
 time to be in tech -- but how to make the most of this opportunity?  
 
+### A scenario
+
+**As you go through life**, you will often encounter a scenario like
+this:  Say two people, A and B, are applying for something.  They may be
+university students applying to the same grad school program, industry
+professionals applying for the same job, and so on.  To make this
+concrete, say the goal is grad school.  Suppose A and B are similar in
+almost all respects, with the same undergraduate major and coursework,
+same internships, even the same race and gender, but A has better
+grades than B.  And yet, B is accepted to the grad program while A is
+not.
+
+What happened?  Typically the crux of the matter is that B either (1)
+has a deeper insight into the course material or (2) B speaks more
+cogently about that material--likely *both*.
+
+The point, then, is:
+
+> You are no longer in high school, where learning seldom goes beyond
+> rote memorization, and good grades are all you need academically.  At
+> university, you need to delve more deeply into your course material,
+> constantly asking yourself Why? and What if?, and striving to
+> develop into a fine communicator.  
+
+The goal of this document is to help you grow in those directions.
+
+### What we will cover here
+
 The organization of this document is as follows.  
 
 * Approximately the first half will be on general learning issues, e.g.
