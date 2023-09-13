@@ -394,6 +394,10 @@ talking and writing.  If you've ever visited a company that produces
 software, you probably noticed that most of the coders are in their 20s
 or early 30s; this is no coincidence.
 
+Good communication is difficult in general, and doubly so when
+discussing technical matters.  But it still is a general skill, and I
+recommend against taking courses with titles like Technical Writing.
+
 And though, yes, coursework in writing and speaking helps to some
 extent, ***you can only grow by working on these things yourself***.  
 
@@ -499,6 +503,13 @@ INV, just jumping on the bandwagon?
 
 This is not to say INV is not a genuine advance.  But a dose of healthy
 skepticism may be in order.
+
+Similarly, while ChatGPT and other Large Language Models are highly
+impressive, the fact is that they are often wrong in technical
+matters--egregiously wrong.  My
+[article](https://magazine.amstat.org/blog/2023/04/01/chatgpt-finds-statistics-difficult/)
+shows a few examples, both conceptual and coding.  If you know your
+course material reasonably well, you are likely smarter than the LLMs.
 
 ## Graduate school
 
