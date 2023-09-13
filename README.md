@@ -101,7 +101,7 @@ Joyce Lain Kennedy has featured my advice on career issues in her books,
 Dummies*. 
 
 Further details of my background are in my
-[bio](http://heather.cs.ucdavis.edu/matloff.html).[
+[bio](http://heather.cs.ucdavis.edu/matloff.html).
 
 Of course, the material here represents my own views only, and does not
 imply endorsement by my university or department.  And again, others may
@@ -117,13 +117,15 @@ France, by Allen.
 
 # What do CS/DS/Stat graduates do?
 
-* Many in CS--and in fact many from DS, Stat and virtually any tech
-  field--become software engineers.  
+* Software developers:  Not just graduates of CS, but also many from DS,
+  Stat and virtually any tech field--go into this occupation.
 
 * Data scientists:  Analyzing, graphing and predicting data.  Wide
-  variation here, in terms of job responsibilities, possible need for an
-advanced degree and so on.  If for instance the job title involves
-"machine learning," an advanced degree is almost certainly required.
+  variation here, in terms of job responsibilities, and requirements.
+Many in this occupation come from non-CS majors, such as Sociology or
+Business.  There is possible need for an advanced degree and so on.  If
+for instance the job title involves something like "machine learning,"
+an advanced degree is almost certainly required.
 
 * Database analysts:  A big bank would quickly go out of business if its
   software and hardware couldn't keep up with the huge daily olume of checks,
@@ -156,7 +158,7 @@ is especially useful.  Develop skill in this.
 If you want to retain Windows for video games or whatever, that's fine
 -- set up your system to dual-boot the two systems.  In fact, the
 setting up of this will itself be a valuable learning experience.  Don't
-use the Linux subsystem in Windows.  It lacks many capabilities.
+use the Linux subsystem in Windows; it lacks many capabilities.
 
 ## Coursework is not enough
 
@@ -173,7 +175,7 @@ OS class, let alone in computational courses in DS/Stat.
   normal/Gaussian distribution.  But you almost certainly won't be
 taught that no such assumptions hold in real life (e.g. no one is 100
 feet tall or has a negative height), or whether the assumptions
-matter.
+even matter (some do, some don't).
 
 The remedy:  Learn nonpassively.  Question what you learn.  Fill in the
 gaps, first by trying to reason them out, then by consulting with your
@@ -185,16 +187,19 @@ These days, many instructors not only give absurdly high grades--at my
 university, I've seen a number of courses in which 1/3 of the students
 get A+ grades!--but also are very undemanding.  Their lectures lack
 depth, and avoid the more difficult concepts.  Exams are simply
-warmed-over homework problems.
+warmed-over homework problems, or even near-duplicates of practice exams
+distributed by the instructor..
 
 You should seek out the professors who will challenge you, but if you
 get some easy ones, don't fool yourself into thinking that that A/A+
 grade means you have good knowledge of the subject matter.  Again, go
 further than what is expected of you, as explained above.
 
-Beware of any stat/ML instructor who presents matters with a flow chart
-("in this situation, do this...").  It will typically be a misleading
-oversimplification.
+Beware of any stat/machine learning (ML) instructor who presents matters
+with a flow chart ("in this situation, do this...").  It will typically
+be a misleading oversimplification.  Similarly, if a stat/ML class
+overly focuses on the programming, mainly discussing what functions to
+call when, you'll need to supplement the material on your own.
 
 ## Textbooks
 
@@ -208,8 +213,8 @@ of the most important ones in the book*.  You actually should spend extra
 time on such pages.
 
 Pause often for thought.  Your reading will likely cause you to have
-lots of questions.  Indeed, if you have no questions, you probably have not
-been reading critically.  Think hard in trying to answer the questions
+lots of questions.  Indeed, **if you have no questions, you probably have not
+been reading critically.**  Think hard in trying to answer the questions
 yourself, and ask your professor or TAs about the rest, resorting to the
 Internet if that doesn't work.
 
@@ -225,12 +230,12 @@ What it does mean is to give your work long, hard thought.  Can't see
 how to even get started on your programming assignment?  Don't
 immediately seek your TA!!!!  Think more and more on it.  Let it percolate
 in your mind.  Go for a long walk to mull it over.  **This is where you
-become a good programmer.**  If you don't go through this, you likely
+become a good programmer.**  If you don't go through this, you will likely
 never do well in a coding interview, let alone the job.
 
 It also follows that if the problem statement for your assignment gives
 you a detailed outline of the code structure, the instructor is not doing you a
-favor.  Try to take courses from professors who challenge you.
+favor.  Again, try to take courses from professors who challenge you.
 
 The same point holds for mathematical courses, whether in a CS, Math or
 Stat Department.  Indeed, for *any* course:
@@ -262,6 +267,9 @@ feel the workload is overwhelming.  What can be done about this?
   still have some time; I think I'll start writing that first function."
   The same ideas apply to starting lengthy/challenging math assignments
   and so on.
+
+Needless to say, if things get to extremes, you may find that talking to
+someone in your university counseling service is helpful.
 
 ## Avoid taking many courses in your major on a P/NP grading basis
 
@@ -308,7 +316,8 @@ them with a comment, saying something like "In the next 3 lines, we
 determine which array elements caused the total to exceed its limit."
 
 Comments become indispensable when you return to some code after a few
-months, and zero recall of what you did.
+months, and zero recall of what you did.  Write your comments as if
+you'll need to return later.
 
 ***Means, proportions and graphs in your daily life, especially Simpson's
 Paradox:***
@@ -408,10 +417,10 @@ club or volunteer activities where you can really grow verbally.
 
 Success in the real world stems perhaps 20% from technical ability and
 80% skill in interpersonal relations.  Don't be a hermit.  Join the CS
-Club.  Volunteer to help out in your department's or your university's
-annual Open House.  Know what's going on in the outside world.  Read
-something other than science fiction or fantasy.  Think carefully about
-the societal implications of technology.
+or Stat Club.  Volunteer to help out in your department's or your
+university's annual Open House.  Know what's going on in the outside
+world.  Read something other than science fiction or fantasy.  Think
+carefully about the societal implications of technology.
 
 ## Possibly engage in undergraduate research
 
@@ -425,7 +434,9 @@ problem but also *defining* it in the first place, can have a
 transformative impact on the student.
 
 On the other hand, if the student is just assigned to do straightforword
-coding, say, then the value of research is essentially nil.
+coding, say, then the value of research is essentially nil.  The same
+statement holds if the student does not find the project interesting;
+neither the professor nor the student benefit if this is the case.
 
 ## Seeking and interviewing for jobs
 
