@@ -66,8 +66,9 @@ grades than B.  And yet, B is accepted to the grad program while A is
 not.
 
 What happened?  Typically the crux of the matter is that B either (1)
-has a deeper insight into the course material or (2) B speaks more
-cogently about that material--likely *both*.
+has a deeper insight into the course material than B's grades would
+indicate or (2) B speaks more cogently about that material--likely
+*both*.
 
 The point, then, is:
 
@@ -151,13 +152,13 @@ France, by Allen.
 * Data scientists:  Analyzing, graphing and predicting data.  Wide
   variation here, in terms of job responsibilities, and requirements.
 Many in this occupation come from non-CS majors, such as Sociology or
-Business.  There is possible need for an advanced degree and so on.  If
-for instance the job title involves something like "machine learning,"
-an advanced degree is almost certainly required.
+Business, while many other jobs in this field require a Master's or even
+a PhD.  If for instance the job title involves something like "machine
+learning," an advanced degree is almost certainly required.
 
 * Database analysts:  A big bank would quickly go out of business if its
-  software and hardware couldn't keep up with the huge daily olume of checks,
-credit card transaction and so on.  Making the database speedy is thus
+  software and hardware couldn't keep up with the huge daily volume of checks,
+credit card transactions and so on.  Making the database speedy is thus
 of huge importance.
 
 * Security specialists:  How to foil the Bad Guys?  This requires a
@@ -199,9 +200,10 @@ need to effectively do CS/DS/Stat work.  Examples:
   machine boots up.  Yet this almost certainly will not be covered in an
 OS class, let alone in computational courses in DS/Stat.
 
-* In a DS/Stat course, you will learn about stat methods that assume a
-  normal/Gaussian distribution.  But you almost certainly won't be
-taught that no such assumptions hold in real life (e.g. no one is 100
+* In a DS/Stat course, you will learn about stat methods and their
+  assumptions.  One prominent assumption is that the data arise from
+  a normal/Gaussian distribution.  But you almost certainly won't be
+taught that normality never holds in real life (e.g. no one is 100
 feet tall or has a negative height), or whether the assumptions
 even matter (some do, some don't).
 
@@ -209,7 +211,7 @@ The remedy:  Learn nonpassively.  Question what you learn.  Fill in the
 gaps, first by trying to reason them out, then by consulting with your
 instructors, then finally--of course--by going to the Internet.
 
-## The impact of grade inflation
+## The impact of grade inflation and shallow course content
 
 These days, many instructors not only give absurdly high grades--at my
 university, I've seen a number of courses in which 1/3 of the students
@@ -223,10 +225,10 @@ get some easy ones, don't fool yourself into thinking that that A/A+
 grade means you have good knowledge of the subject matter.  Again, go
 further than what is expected of you, as explained above.
 
-Beware of any stat/machine learning (ML) instructor who presents matters
-with a flow chart ("in this situation, do this...").  It will typically
-be a misleading oversimplification.  Similarly, if a stat/ML class
-overly focuses on the programming, mainly discussing what functions to
+*Beware of any stat/machine learning (ML) instructor who presents matters
+with a flow chart ("in this situation, do this...").*  It will typically
+be a misleading oversimplification.  Similarly, *if a stat/ML class
+overly focuses on the programming*, mainly discussing what functions to
 call when, you'll need to supplement the material on your own.
 
 ## Textbooks
